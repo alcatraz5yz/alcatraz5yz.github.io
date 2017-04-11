@@ -238,11 +238,13 @@ qtconsole==4.2.1
 QtPy==1.2.1
 Rails==0.0.5
 redis==2.10.5
+repoze.lru==0.6
 requests==2.10.0
 requests-file==1.4.1
 requests-ftp==0.3.1
 responses==0.5.1
 rope==0.10.5
+Routes==2.4.1
 sass==2.3
 scandir==1.4
 selenium==3.0.2
